@@ -24,3 +24,5 @@ Final Price: $4.05
 
 ## Author
 Jorgeluis Granados
+## Collaboration Acknowledgment
+This project was reviewed and edited by Mikayla Khamnyvong on GitHub.
