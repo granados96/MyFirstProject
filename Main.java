@@ -87,5 +87,7 @@ public class Main {
 
         // TODO C1: Call printBill() to show the final amount.
     }
+
+    System.out.println("Hello World");
 }
 
